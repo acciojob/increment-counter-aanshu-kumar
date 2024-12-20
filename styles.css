@@ -1,8 +1,2 @@
 /*  your css code here. If applicable */
 
-function increment()
-{
-    let counter = document.getElementById("counter");
-    counter.innerHTML=Number(counter.textContent)+1;
-	alert(counter.text);
-}
